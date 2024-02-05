@@ -25,7 +25,7 @@ If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/bikimukherjee/"></a>
 
-© 2022 Biki Mukherjee
+© 2023 Biki Mukherjee
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
