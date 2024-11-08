@@ -16,8 +16,8 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "name": "Python",
+        "icon": "https://img.icons8.com/3d-fluency/55/python.png"
     },
     {
         "name": "Git VCS",
@@ -30,5 +30,9 @@
     {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }, 
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/officel/50/react.png"
     }    
 ]
